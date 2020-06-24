@@ -2,7 +2,7 @@
 class TextScramble {
     constructor(el) {
       this.el = el
-      this.chars = '!<>-_\\//|/\[]{}—=+*^?#________'
+      this.chars = '</<3{}-_\\//|/\[]{}—=+*^?__#$!*3^#%94332@#6#7&398@@7!$%883*6^4^7@5*4'
       this.update = this.update.bind(this)
     }
     setText(newText) {
@@ -55,9 +55,8 @@ class TextScramble {
 
   const phrases = [
     'Web Developer.',
-    'Techie.',
+    'UI/UX Designer',
     'Programmer.',
-    'cyber security enthusiast.'
   ]
   
   const el = document.querySelector('.descr-scramble')
