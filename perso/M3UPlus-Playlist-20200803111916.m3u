@@ -1,0 +1,945 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aqua Teen Hunger Force" tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="24/7 ADULT SWIM",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Jesus" tvg-logo="https://i.imgur.com/slawVDH.png" group-title="24/7 ADULT SWIM",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Daily Live Action" tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="24/7 ADULT SWIM",Daily Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dream Corp LLC" tvg-logo="https://i.imgur.com/le0DGBd.png" group-title="24/7 ADULT SWIM",Dream Corp LLC
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Home Movies" tvg-logo="https://i.imgur.com/zlPbOI0.png" group-title="24/7 ADULT SWIM",Home Movies
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Stream" tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="24/7 ADULT SWIM",Live Stream
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Metalocalypse" tvg-logo="https://i.imgur.com/rYIysEl.png" group-title="24/7 ADULT SWIM",Metalocalypse
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. Pickles" tvg-logo="https://i.imgur.com/aShyuut.png" group-title="24/7 ADULT SWIM",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rick and Morty" tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="24/7 ADULT SWIM",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robot Chicken" tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Squidbillies" tvg-logo="https://i.imgur.com/zSs1e5z.png" group-title="24/7 ADULT SWIM",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Superjail!" tvg-logo="https://i.imgur.com/K3nLFU9.png" group-title="24/7 ADULT SWIM",Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Eric Andre Show" tvg-logo="https://i.imgur.com/GBlHt4r.png" group-title="24/7 ADULT SWIM",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Venture Bros." tvg-logo="https://i.imgur.com/kru210h.png" group-title="24/7 ADULT SWIM",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tim and Eric" tvg-logo="https://i.imgur.com/9lsXliT.png" group-title="24/7 ADULT SWIM",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Williams Stream" tvg-logo="https://i.imgur.com/64uOrnR.png" group-title="24/7 ADULT SWIM",Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Scenes de Menages" tvg-logo="https://i.imgur.com/xSN4Br1.png" group-title="FRANCE",24/7 Scenes de Menages
+http://opus.cf/allfrtvstrm/tkn/scenes/i/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Africa Sports TV" tvg-logo="https://i.imgur.com/fVvCoxZ.png" group-title="FRANCE",Africa Sports TV
+https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alsace 20" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Alsace_20_logo_2017.png" group-title="FRANCE",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bblack! Africa" tvg-logo="https://i.imgur.com/scekUmQ.png" group-title="FRANCE",Bblack! Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bblack! Caribbean" tvg-logo="https://i.imgur.com/hH41JJV.png" group-title="FRANCE",Bblack! Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bblack! Classik" tvg-logo="https://i.imgur.com/GS3SgOm.png" group-title="FRANCE",Bblack! Classik
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="FRANCE",BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BFM Lyon" tvg-logo="https://i.imgur.com/3SPiQ7U.png" group-title="FRANCE",BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BFM Paris" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="FRANCE",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BipTV" tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="FRANCE",BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal J" tvg-logo="https://i.imgur.com/zBw9x4Q.png" group-title="FRANCE",Canal J
+http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Français (Opt-1)" tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="FRANCE",CGTN Français (Opt-1)
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Français (Opt-2)" tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="FRANCE",CGTN Français (Opt-2)
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clubbing TV" tvg-logo="https://i.imgur.com/zXYBM7U.png" group-title="FRANCE",Clubbing TV
+https://fluxustv.blogspot.com@bit.ly/ClubbingTV?.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D5TV" tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="FRANCE",D5TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dici TV" tvg-logo="https://www.dici.fr/sites/dici.fr/themes/dici2017/assets/img/dici-tv.png" group-title="FRANCE",Dici TV
+http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Animation" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Classics" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Dancefloor" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Electro Rock" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing French Touch" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing French Touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Hedonist" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Hedonist
+http://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Hits" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Hits
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Karaoke" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Live" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Summer Vibes" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJing Underground" tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ere TV" tvg-logo="https://i.imgur.com/rKaqWo5.png" group-title="FRANCE",Ere TV
+http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espace Francophone" tvg-logo="https://i.imgur.com/sdF6uxL.png" group-title="FRANCE",Espace Francophone
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24 (Opt-1)" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-1)
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24 (Opt-2)" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-2)
+http://ott-cdn.ucom.am/s25/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24 (Opt-3)" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-3)
+http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (Opt-1)" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-1)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (Opt-2)" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-2)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (Opt-3)" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-3)
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (Opt-4)" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-4)
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (HD)" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (HD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (UHD)" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (UHD)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gong" tvg-logo="https://i.imgur.com/9S89d2r.png" group-title="FRANCE",Gong
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gong Max" tvg-logo="https://i.imgur.com/iYalq6I.png" group-title="FRANCE",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grand Lille TV" tvg-logo="https://www.grandlille.tv/wp-content/uploads/2018/09/logo-gltv-w.png" group-title="FRANCE",Grand Lille TV
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ILTV" tvg-logo="https://i.imgur.com/yDdOr52.png" group-title="FRANCE",ILTV
+http://str81.creacast.com:80/iltv/high/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Chaine Normande" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="FRANCE",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MCM Top (Opt-1)" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="FRANCE",MCM Top (Opt-1)
+http://ott-cdn.ucom.am/s49/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MCM Top (Opt-2)" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="FRANCE",MCM Top (Opt-2)
+http://92.43.140.249/s49/04.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mezzo (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="FRANCE",Mezzo (Opt-1)
+http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mezzo (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="FRANCE",Mezzo (Opt-2)
+http://45.92.69.76:8000/play/a03r
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mezzo (Opt-3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="FRANCE",Mezzo (Opt-3)
+http://45.92.69.76:8000/play/a0cl
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monaco Info" tvg-logo="http://monacoinfo.com/wp-content/themes/monacoinfo/assets/img/monacoinfo.png" group-title="FRANCE",Monaco Info
+http://46.105.34.238/liveevent.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyComedy" tvg-logo="https://i.imgur.com/W1Vg3yP.png" group-title="FRANCE",MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Info Talk Sport" tvg-logo="https://i.imgur.com/AAa56m6.png" group-title="FRANCE",RMC Info Talk Sport
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT France" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="FRANCE",RT France
+http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stad'Afric (Opt-1)" tvg-logo="https://i.imgur.com/pFQnDgW.png" group-title="FRANCE",Stad'Afric (Opt-1)
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stad'Afric (Opt-2)" tvg-logo="https://i.imgur.com/pFQnDgW.png" group-title="FRANCE",Stad'Afric (Opt-2)
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tebeo" tvg-logo="https://i.imgur.com/JkBlOjq.png" group-title="FRANCE",Tebeo
+http://live2.awedia.com/hls/tebeo.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleToon+" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="FRANCE",TeleToon+
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Africa" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Gospel" tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Kitoko" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="FRANCE",Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Mziki" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="FRANCE",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Naija" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="FRANCE",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Toca" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-toca.png" group-title="FRANCE",Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Tropical" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="FRANCE",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/nG0ervu.png" group-title="FRANCE",Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3V" tvg-logo="https://i.imgur.com/0wgzN59.png" group-title="FRANCE",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Asie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="FRANCE",TV5 Monde Asie
+http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="FRANCE",TV5 Monde Europe
+http://45.92.69.76:8000/play/a045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Info (Opt-1)" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-1)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Info (Opt-2)" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-2)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Info (Opt-3)" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-3)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Info (Opt-4)" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info (Opt-4)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Maghreb-Orient" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="FRANCE",TV5 Monde Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Style (Opt-1)" tvg-logo="https://i.imgur.com/BDCzumR.png" group-title="FRANCE",TV5 Monde Style (Opt-1)
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Style (Opt-2)" tvg-logo="https://i.imgur.com/BDCzumR.png" group-title="FRANCE",TV5 Monde Style (Opt-2)
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/pZluyZ0.png" group-title="FRANCE",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV8 Montblanc" tvg-logo="https://i.imgur.com/BpHGLna.png" group-title="FRANCE",TV8 Montblanc
+http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVPI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Bretagne" tvg-logo="https://i.imgur.com/o7sFOPm.png" group-title="FRANCE",TVR Bretagne
+https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viaVosges" tvg-logo="https://i.imgur.com/v5wx5yZ.png" group-title="FRANCE",viaVosges
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1 Yes TV" tvg-logo="https://i.imgur.com/Ujoi9Uh.png" group-title="INDIA",1 Yes TV
+http://150.242.21.2/oneyes.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News Malayalam (New!)" tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News Malayalam (New!)
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1st India" tvg-logo="https://i.imgur.com/3gTwOsn.png" group-title="INDIA",1st India
+https://live.wmncdn.net/firstindianewstv1/live.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K Tamil TV" tvg-logo="https://i.imgur.com/sMgWdff.png" group-title="INDIA",4K Tamil TV
+http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7S Music (New!)" tvg-logo="https://i.imgur.com/CKqup50.png" group-title="INDIA",7S Music (New!)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5aab TV" tvg-logo="https://i.imgur.com/AqAwJec.png" group-title="INDIA",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://i.imgur.com/Qqa1A35.png" group-title="INDIA",9XM
+http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak (Opt-1)" tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak (Opt-1)
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak (Opt-2)" tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak (Opt-2)
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaryaa TV" tvg-logo="https://i.imgur.com/i5dOEta.png" group-title="INDIA",Aaryaa TV
+http://150.242.21.2/aaryaa.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Asmita (New!)" tvg-logo="https://i.imgur.com/SeaWMgV.png" group-title="INDIA",ABP Asmita (New!)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Majha (New!)" tvg-logo="https://i.imgur.com/U6GGaHo.png" group-title="INDIA",ABP Majha (New!)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News (New!)" tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="INDIA",ABP News (New!)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV (Opt-1) (New!)" tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",ACV (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV (Opt-2) (New!)" tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",ACV (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV Jukebox (Opt-1) (New!)" tvg-logo="https://i.imgur.com/AllTF2K.png" group-title="INDIA",ACV Jukebox (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV Jukebox (Opt-2) (New!)" tvg-logo="https://i.imgur.com/AllTF2K.png" group-title="INDIA",ACV Jukebox (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV News (New!)" tvg-logo="https://i.imgur.com/UjqTQgr.png" group-title="INDIA",ACV News (New!)
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav (Opt-1) (New!)" tvg-logo="https://i.imgur.com/QnDmR8W.png" group-title="INDIA",ACV Utsav (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav (Opt-2) (New!)" tvg-logo="https://i.imgur.com/QnDmR8W.png" group-title="INDIA",ACV Utsav (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav Plus (Opt-1) (New!)" tvg-logo="https://i.imgur.com/Hcp2Noi.png" group-title="INDIA",ACV Utsav Plus (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACV Utsav Plus (Opt-2) (New!)" tvg-logo="https://i.imgur.com/Hcp2Noi.png" group-title="INDIA",ACV Utsav Plus (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Galatta" tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Galatta
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Kidz" tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaram Mix" tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA",Akaram Mix
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amar Ujala" tvg-logo="https://i.imgur.com/PB7QMfb.png" group-title="INDIA",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amrita TV (New!)" tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="INDIA",Amrita TV (New!)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Analai Express" tvg-logo="https://i.imgur.com/Z02lLF0.png" group-title="INDIA",Analai Express
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anand TV (New!)" tvg-logo="https://i.imgur.com/6aJB4HK.png" group-title="INDIA",Anand TV (New!)
+https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anjan TV" tvg-logo="https://i.imgur.com/4Y3oF4H.png" group-title="INDIA",Anjan TV
+https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Artage News" tvg-logo="https://i.imgur.com/e5HpMKp.png" group-title="INDIA",Artage News
+http://artage.livebox.co.in/ArtageNewshls/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Middle East (New!)" tvg-logo="https://i.imgur.com/pHswzRb.png" group-title="INDIA",Asianet Middle East (New!)
+http://150.242.21.2/middleeast.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News (New!)" tvg-logo="https://i.imgur.com/fZ79rhU.png" group-title="INDIA",Asianet News (New!)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Assam Talks" tvg-logo="https://i.imgur.com/z0xsSZa.png" group-title="INDIA",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ayush TV" tvg-logo="https://i.imgur.com/EEZt3i4.png" group-title="INDIA",Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak (New!)" tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="INDIA",B4U Kadak (New!)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Movies (Opt-1) (New!)" tvg-logo="https://i.imgur.com/D5vloip.png" group-title="INDIA",B4U Movies (Opt-1) (New!)
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Movies (Opt-2) (New!)" tvg-logo="https://i.imgur.com/D5vloip.png" group-title="INDIA",B4U Movies (Opt-2) (New!)
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music (Opt-1) (New!)" tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="INDIA",B4U Music (Opt-1) (New!)
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music (Opt-2) (New!)" tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="INDIA",B4U Music (Opt-2) (New!)
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Plus (New!)" tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="INDIA",B4U Plus (New!)
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Toronto Gaunda Punjab (CA)" tvg-logo="https://i.imgur.com/Mthi8WQ.png" group-title="INDIA",BBC Toronto Gaunda Punjab (CA)
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood TV" tvg-logo="https://i.imgur.com/NhcsJ9p.png" group-title="INDIA",Bollywood TV
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boss TV" tvg-logo="https://i.imgur.com/stKTTr0.png" group-title="INDIA",Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boogle Bollywood" tvg-logo="https://i.imgur.com/k922iYy.png" group-title="INDIA",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BritAsia TV (New!)" tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="INDIA",BritAsia TV (New!)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel D (AE) (New!)" tvg-logo="https://i.imgur.com/BymPlPT.png" group-title="INDIA",Channel D (AE) (New!)
+http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel Y" tvg-logo="https://i.imgur.com/g8VsoFL.png" group-title="INDIA",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Voice" tvg-logo="https://i.imgur.com/pTCWWT9.png" group-title="INDIA",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema TV (New!)" tvg-logo="https://i.imgur.com/02wllVJ.png" group-title="INDIA",Cinema TV (New!)
+https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Awaaz (New!)" tvg-logo="https://i.imgur.com/6jbgccb.png" group-title="INDIA",CNBC Awaaz (New!)
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Bajar (New!)" tvg-logo="https://i.imgur.com/E71mShF.png" group-title="INDIA",CNBC Bajar (New!)
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC TV18 (New!)" tvg-logo="https://i.imgur.com/JO3TM42.png" group-title="INDIA",CNBC TV18 (New!)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Malayalam (New!)" tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="INDIA",DD Malayalam (New!)
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD National (New!)" tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="INDIA",DD National (New!)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD News" tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="INDIA",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Punjabi (New!)" tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="INDIA",DD Punjabi (New!)
+http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports (Opt-1) (New!)" tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA",DD Sports (Opt-1) (New!)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports (Opt-2) (New!)" tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA",DD Sports (Opt-2) (New!)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Vyas (Opt-1) (New!)" tvg-logo="https://i.imgur.com/48Gy5v2.png" group-title="INDIA",DD Vyas (Opt-1) (New!)
+http://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Vyas (Opt-2) (New!)" tvg-logo="https://i.imgur.com/48Gy5v2.png" group-title="INDIA",DD Vyas (Opt-2) (New!)
+http://playhls.media.nic.in/live/vyas-360p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel (Opt-1)" tvg-logo="https://i.imgur.com/6q8JSAe.png" group-title="INDIA",Desi Channel (Opt-1)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel (Opt-2)" tvg-logo="https://i.imgur.com/6q8JSAe.png" group-title="INDIA",Desi Channel (Opt-2)
+https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi TV USA" tvg-logo="https://i.imgur.com/9MaPnQ6.png" group-title="INDIA",Desi TV USA
+http://cdn30.liveonlineservices.com/hls/desitv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Plus TV (CA) (New!)" tvg-logo="https://i.imgur.com/auJG4zd.png" group-title="INDIA",Desi Plus TV (CA) (New!)
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhamaal (New!)" tvg-logo="https://i.imgur.com/81pwfps.png" group-title="INDIA",Dhamaal (New!)
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dighvijay News 24x7" tvg-logo="https://i.imgur.com/kJvYAvc.png" group-title="INDIA",Dighvijay News 24x7
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dilli Aaj Tak" tvg-logo="https://i.imgur.com/ClZ9sC8.png" group-title="INDIA",Dilli Aaj Tak
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DY 365" tvg-logo="https://i.imgur.com/oS8RnW0.png" group-title="INDIA",DY 365
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E9 Punjabi (CA)" tvg-logo="https://i.imgur.com/aTWFaPn.png" group-title="INDIA",E9 Punjabi (CA)
+http://cdn.samtv.ca/e9punjabi/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EET TV (CA)" tvg-logo="https://i.imgur.com/9Lktwf2.png" group-title="INDIA",EET TV (CA)
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekta TV" tvg-logo="https://i.imgur.com/lGQbmsH.png" group-title="INDIA",Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ET Now (New!)" tvg-logo="https://i.imgur.com/GmNK9Kz.png" group-title="INDIA",ET Now (New!)
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telugu (New!)" tvg-logo="https://i.imgur.com/3f5sqb9.png" group-title="INDIA",ETV Telugu (New!)
+http://195.181.169.151:8080/ETVTelugu-telu/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FastWay TV" tvg-logo="https://i.imgur.com/tWYAxIH.png" group-title="INDIA",FastWay TV
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV (New!)" tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="INDIA",Flowers TV (New!)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gabruu TV (AU)" tvg-logo="https://i.imgur.com/hzloZHG.png" group-title="INDIA",Gabruu TV (AU)
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Garshom News" tvg-logo="https://i.imgur.com/MFFYFeG.png" group-title="INDIA",Garshom News
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gosree Vision" tvg-logo="https://i.imgur.com/sKgKSt3.png" group-title="INDIA",Gosree Vision
+http://150.242.21.2/gosree.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hamdard TV (CA)" tvg-logo="https://i.imgur.com/TOMaYDK.png" group-title="INDIA",Hamdard TV (CA)
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hathway CCC Cine Channel (New!)" tvg-logo="https://i.imgur.com/EgbLgNg.png" group-title="INDIA",Hathway CCC Cine Channel (New!)
+https://acv.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hiru TV (New!)" tvg-logo="https://i.imgur.com/3GaIXIW.png" group-title="INDIA",Hiru TV (New!)
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HNN 24x7" tvg-logo="https://i.imgur.com/ihCqjzT.png" group-title="INDIA",HNN 24x7
+http://edge-ind.inapcdn.in:1935/edge1/hnntv.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama: Bhaarat Sagar" tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA",Hungama: Bhaarat Sagar
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama: Dil Se" tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA",Hungama: Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama: Kadak Hits" tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA",Hungama: Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama: Nazrana" tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA",Hungama: Nazrana
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama: Pop Pataka" tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA",Hungama: Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama: Punjabi Tadka" tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA",Hungama: Punjabi Tadka
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama: Sakkat" tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA",Hungama: Sakkat
+http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC 24" tvg-logo="https://i.imgur.com/TjuXUS2.png" group-title="INDIA",IBC 24
+https://livetv.ibc24.in/livestream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC Comedy (New!)" tvg-logo="https://i.imgur.com/FBGjycy.png" group-title="INDIA",IBC Comedy (New!)
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC Kids (New!)" tvg-logo="https://i.imgur.com/uOpVDkn.png" group-title="INDIA",IBC Kids (New!)
+https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC Tamil (New!)" tvg-logo="https://i.imgur.com/txTBtsK.png" group-title="INDIA",IBC Tamil (New!)
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Image Channel (New!)" tvg-logo="https://i.imgur.com/CWAyXBx.png" group-title="INDIA",Image Channel (New!)
+http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Inchara News (New!)" tvg-logo="https://i.imgur.com/CDUnrIh.png" group-title="INDIA",Inchara News (New!)
+http://inchara.livebox.co.in/incharahls/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India Ahead" tvg-logo="https://i.imgur.com/11onCOs.png" group-title="INDIA",India Ahead
+http://p-indiaahead.planetcast.in/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India Today (New!)" tvg-logo="https://i.imgur.com/M2zAN9M.png" group-title="INDIA",India Today (New!)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India TV (Opt-1)" tvg-logo="https://i.imgur.com/XJ5yBfo.png" group-title="INDIA",India TV (Opt-1)
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India TV (Opt-2)" tvg-logo="https://i.imgur.com/XJ5yBfo.png" group-title="INDIA",India TV (Opt-2)
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaihind TV (New!)" tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA",Jaihind TV (New!)
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janam TV" tvg-logo="https://i.imgur.com/A2YJm4X.png" group-title="INDIA",Janam TV
+https://vidhttps.r.worldssl.net/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janataa TV (New!)" tvg-logo="https://i.imgur.com/7EbDmPr.png" group-title="INDIA",Janataa TV (New!)
+http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janta TV" tvg-logo="https://i.imgur.com/Tg1C1bY.png" group-title="INDIA",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JattTV (GB)" tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" group-title="INDIA",JattTV (GB)
+https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeevan TV (New!)" tvg-logo="https://i.imgur.com/nuXE2kO.png" group-title="INDIA",Jeevan TV (New!)
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jhanjar (CA)" tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="INDIA",Jhanjar (CA)
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="INDIA",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JK 24x7 News" tvg-logo="https://i.imgur.com/MqotgSC.png" group-title="INDIA",JK 24x7 News
+http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jonack TV" tvg-logo="https://i.imgur.com/aUiGzoK.png" group-title="INDIA",Jonack TV
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali News (New!)" tvg-logo="https://i.imgur.com/5wweZXu.png" group-title="INDIA",Kairali News (New!)
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali TV (New!)" tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA",Kairali TV (New!)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali We (New!)" tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA",Kairali We (New!)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kalaignar TV (New!)" tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="INDIA",Kalaignar TV (New!)
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kappa TV (New!)" tvg-logo="https://i.imgur.com/w2oUBtd.png" group-title="INDIA",Kappa TV (New!)
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanak News (New!)" tvg-logo="https://i.imgur.com/Ff7wFBi.png" group-title="INDIA",Kanak News (New!)
+http://139.59.13.228:8081/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kasthuri TV (New!)" tvg-logo="https://i.imgur.com/EKNSWQU.png" group-title="INDIA",Kasthuri TV (New!)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaumudy TV" tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="INDIA",Kaumudy TV
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kerala Express TV (New!)" tvg-logo="https://i.imgur.com/um1lErP.png" group-title="INDIA",Kerala Express TV (New!)
+http://150.242.21.2/keralaexpress.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khabrain Abhi Tak" tvg-logo="https://i.imgur.com/g5hYidf.png" group-title="INDIA",Khabrain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KITE-VICTERS" tvg-logo="https://i.imgur.com/jAMKVwM.png" group-title="INDIA",KITE-VICTERS
+https://live.wmncdn.net/victers/live.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV (New!)" tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",KTV (New!)
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Life Punjabi" tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="INDIA",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Living India News" tvg-logo="https://i.imgur.com/4Dw0g1H.png" group-title="INDIA",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok Sabha TV" tvg-logo="https://i.imgur.com/Dxq2goB.png" group-title="INDIA",Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus News (New!)" tvg-logo="https://i.imgur.com/2ZvEbQB.png" group-title="INDIA",Lotus News (New!)
+http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4 Malayalam (AU) (New!)" tvg-logo="https://i.imgur.com/K6H3iD1.png" group-title="INDIA",M4 Malayalam (AU) (New!)
+http://m4malayalam.livebox.co.in/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madhimugam TV" tvg-logo="https://i.imgur.com/pVsoGpB.png" group-title="INDIA",Madhimugam TV
+http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magna Vision TV (New!)" tvg-logo="https://i.imgur.com/HJ2FppC.png" group-title="INDIA",Magna Vision TV (New!)
+http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkal TV" tvg-logo="https://i.imgur.com/304p9Qo.png" group-title="INDIA",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mangalam TV (New!)" tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="INDIA",Mangalam TV (New!)
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manorama News (New!)" tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA",Manorama News (New!)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii (Opt-1) (New!)" tvg-logo="https://i.imgur.com/Db17Erd.png" group-title="INDIA",Mastiii (Opt-1) (New!)
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii (Opt-2) (New!)" tvg-logo="https://i.imgur.com/Db17Erd.png" group-title="INDIA",Mastiii (Opt-2) (New!)
+http://acv.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mathrubhumi News (New!)" tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="INDIA",Mathrubhumi News (New!)
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama (New!)" tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA",Mazhavil Manorama (New!)
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Medianet Adimali" tvg-logo="https://i.imgur.com/HwwX5WY.png" group-title="INDIA",Medianet Adimali
+http://150.242.21.2/medianet.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mirror Now" tvg-logo="https://i.imgur.com/vieY15w.png" group-title="INDIA",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK Six (New!)" tvg-logo="https://i.imgur.com/rgJhrXg.png" group-title="INDIA",MK Six (New!)
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK Tunes (New!)" tvg-logo="https://i.imgur.com/OvGmTf6.png" group-title="INDIA",MK Tunes (New!)
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK TV (New!)" tvg-logo="https://i.imgur.com/EU8ibyK.png" group-title="INDIA",MK TV (New!)
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MN TV Music (New!)" tvg-logo="https://i.imgur.com/bHFmUw1.png" group-title="INDIA",MN TV Music (New!)
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX (New!)" tvg-logo="https://i.imgur.com/cI0cw7m.png" group-title="INDIA",MNX (New!)
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagara TV (CA)" tvg-logo="https://i.imgur.com/CvBgH38.png" group-title="INDIA",Nagara TV (CA)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nav Media (New!)" tvg-logo="https://i.imgur.com/8lv3TDz.png" group-title="INDIA",Nav Media (New!)
+http://abr.wmncdn.net/abr/612a5eb791b43209a8eccdde569e8ee1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV 24x7 (New!)" tvg-logo="https://i.imgur.com/jVWp0K4.png" group-title="INDIA",NDTV 24x7 (New!)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://i.imgur.com/lOXOb18.png" group-title="INDIA",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Nation" tvg-logo="https://i.imgur.com/ktmbiKt.png" group-title="INDIA",News Nation
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News State (New!)" tvg-logo="https://i.imgur.com/sPUM5wk.png" group-title="INDIA",News State (New!)
+https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News State Madhya Pradesh (New!)" tvg-logo="https://i.imgur.com/Ffs7YW5.png" group-title="INDIA",News State Madhya Pradesh (New!)
+https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News18 Lokmat (New!)" tvg-logo="https://i.imgur.com/FkhGcua.png" group-title="INDIA",News18 Lokmat (New!)
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oli FM (SG) (New!)" tvg-logo="https://i.imgur.com/UqX8YF3.png" group-title="INDIA",Oli FM (SG) (New!)
+https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pardesi TV (CA)" tvg-logo="https://i.imgur.com/3ECPiGU.png" group-title="INDIA",Pardesi TV (CA)
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBN Music (USA)" tvg-logo="https://i.imgur.com/x5gcBjw.png" group-title="INDIA",PBN Music (USA)
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppers TV" tvg-logo="https://i.imgur.com/7cQVVfj.png" group-title="INDIA",Peppers TV
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pitaara TV" tvg-logo="https://i.imgur.com/SUKfC0I.png" group-title="INDIA",Pitaara TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Powervision TV" tvg-logo="https://i.imgur.com/aQLcmDw.png" group-title="INDIA",Powervision TV
+https://vstream.online:7443/pvtv/ngrp:pvtv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pratidin Time (New!)" tvg-logo="https://i.imgur.com/vnASwAl.png" group-title="INDIA",Pratidin Time (New!)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Asia TV (CA)" tvg-logo="https://i.imgur.com/zZ7gZC1.png" group-title="INDIA",Prime Asia TV (CA)
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Propex TV (New!)" tvg-logo="https://i.imgur.com/I4sdfs2.png" group-title="INDIA",Propex TV (New!)
+http://jiocgwhub.jio.ril.com/Propex_TV/Propex_TV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prudent Media (New!)" tvg-logo="https://i.imgur.com/Q01pMEP.png" group-title="INDIA",Prudent Media (New!)
+https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/chunklist_w2110152999.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTN 24 (CA)" tvg-logo="https://i.imgur.com/uarG4Im.png" group-title="INDIA",PTN 24 (CA)
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Music (New!)" tvg-logo="https://i.imgur.com/YxUBBs6.png" group-title="INDIA",Public Music (New!)
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Punjabi Zindabad" tvg-logo="https://i.imgur.com/hzFatTk.png" group-title="INDIA",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puthuyugam TV (New!)" tvg-logo="https://i.imgur.com/Wcr5lhD.png" group-title="INDIA",Puthuyugam TV (New!)
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Digital Plus (New!)" tvg-logo="https://i.imgur.com/1HOUzgr.png" group-title="INDIA",Raj Digital Plus (New!)
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rajya Sabha TV" tvg-logo="https://i.imgur.com/AJijZ7V.png" group-title="INDIA",Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reporter TV (Opt-1) (New!)" tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA",Reporter TV (Opt-1) (New!)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reporter TV (Opt-2) (New!)" tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA",Reporter TV (Opt-2) (New!)
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reporter TV (Opt-3) (New!)" tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA",Reporter TV (Opt-3) (New!)
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic TV" tvg-logo="https://i.imgur.com/KnxCqxN.png" group-title="INDIA",Republic TV
+https://repblicwld.s.llnwi.net/live/hls1/master_chunklist1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic TV Bharat (New!)" tvg-logo="https://i.imgur.com/jXl82Cj.png" group-title="INDIA",Republic TV Bharat (New!)
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now (New!)" tvg-logo="https://i.imgur.com/LWOsuCv.png" group-title="INDIA",Romedy Now (New!)
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rosebowl (New!)" tvg-logo="https://i.imgur.com/isJLHIk.png" group-title="INDIA",Rosebowl (New!)
+https://acv.asianetmobiletvplus.com/channels/ef22daf97d61acb4bf52376c4105ad02.smil/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RPlus News" tvg-logo="https://i.imgur.com/p0Y29K8.png" group-title="INDIA",RPlus News
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saam TV" tvg-logo="https://i.imgur.com/tLTLjKu.png" group-title="INDIA",Saam TV
+http://8ovgdkm5rmpw-hls-live.wmncdn.net/31/saam/live.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Safari" tvg-logo="https://i.imgur.com/w881DVW.png" group-title="INDIA",Safari
+https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora TV (DE)" tvg-logo="https://i.imgur.com/rBAup75.png" group-title="INDIA",Santhora TV (DE)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saral Jeevan" tvg-logo="https://i.imgur.com/9XrxPmm.png" group-title="INDIA",Saral Jeevan
+https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/saraljeevan-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sardari TV (CA)" tvg-logo="https://i.imgur.com/u1qoF6k.png" group-title="INDIA",Sardari TV (CA)
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shan Punjabi (New!)" tvg-logo="https://i.imgur.com/eY653jm.png" group-title="INDIA",Shan Punjabi (New!)
+http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony ESPN (New!)" tvg-logo="https://i.imgur.com/p4MSiWI.png" group-title="INDIA",Sony ESPN (New!)
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix (New!)" tvg-logo="https://i.imgur.com/3On1aEg.png" group-title="INDIA",Sony Pix (New!)
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six (New!)" tvg-logo="https://i.imgur.com/Kmp9jwJ.png" group-title="INDIA",Sony Six (New!)
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 (New!)" tvg-logo="https://i.imgur.com/L2lYhxs.png" group-title="INDIA",Sony Ten 1 (New!)
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 (New!)" tvg-logo="https://i.imgur.com/NtvCGGq.png" group-title="INDIA",Sony Ten 2 (New!)
+http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 (New!)" tvg-logo="https://i.imgur.com/0VIRCvp.png" group-title="INDIA",Sony Ten 3 (New!)
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sri Krishna TV" tvg-logo="https://i.imgur.com/qThivbs.png" group-title="INDIA",Sri Krishna TV
+http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha (New!)" tvg-logo="https://i.imgur.com/Idpn4mL.png" group-title="INDIA",Star Jalsha (New!)
+http://103.205.133.44:1935/local/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Steelbird Music" tvg-logo="https://i.imgur.com/wv8fKAs.png" group-title="INDIA",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STS Tamil (New!)" tvg-logo="https://i.imgur.com/99vZY6B.png" group-title="INDIA",STS Tamil (New!)
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sudarshan News" tvg-logo="https://i.imgur.com/k426mar.png" group-title="INDIA",Sudarshan News
+http://edge-ind.inapcdn.in:1935/dynamic/sudarshannews/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV (Opt-1) (New!)" tvg-logo="https://i.imgur.com/bPHkmPT.png" group-title="INDIA",Super TV (Opt-1) (New!)
+http://103.199.160.85/Content/supertv/Live/Channel(SuperTV)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super TV (Opt-2) (New!)" tvg-logo="https://i.imgur.com/bPHkmPT.png" group-title="INDIA",Super TV (Opt-2) (New!)
+http://livematrix.in:1935/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sur Sagar TV (CA)" tvg-logo="https://i.imgur.com/RkZeDTN.png" group-title="INDIA",Sur Sagar TV (CA)
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Samachar" tvg-logo="https://i.imgur.com/ymKtnHL.png" group-title="INDIA",Surya Samachar
+http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna News 24×7 (New!)" tvg-logo="https://i.imgur.com/8PPXAC0.png" group-title="INDIA",Suvarna News 24×7 (New!)
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Swaraj Express SMBC" tvg-logo="https://i.imgur.com/HE5Ji6i.png" group-title="INDIA",Swaraj Express SMBC
+http://bnwdp4a6dp3a-hls-live.wmncdn.net/1032/highnews/swaraj.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taaza TV" tvg-logo="https://i.imgur.com/TDEwvj9.png" group-title="INDIA",Taaza TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Business TV (DE)" tvg-logo="https://i.imgur.com/Dwfiylo.png" group-title="INDIA",Tamil Business TV (DE)
+http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision Int'l (CA) (SD)" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="INDIA",Tamil Vision Int'l (CA) (SD)
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision Int'l (CA) (HD)" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="INDIA",Tamil Vision Int'l (CA) (HD)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamilan Television" tvg-logo="https://i.imgur.com/e7sM8jS.png" group-title="INDIA",Tamilan Television
+http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCV Tirur" tvg-logo="https://i.imgur.com/zTBgiNx.png" group-title="INDIA",TCV Tirur
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="INDIA",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Q India (New!)" tvg-logo="https://i.imgur.com/6OZeVct.png" group-title="INDIA",The Q India (New!)
+https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thirumalai TV (New!)" tvg-logo="https://i.imgur.com/0M3U1I1.png" group-title="INDIA",Thirumalai TV (New!)
+http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now (Opt-1)" tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="INDIA",Times Now (Opt-1)
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now (Opt-2)" tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="INDIA",Times Now (Opt-2)
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Total TV" tvg-logo="https://i.imgur.com/qLJCKge.png" group-title="INDIA",Total TV
+http://172.104.54.227:1935/trans/totaltv.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 16 Toronto (CA)" tvg-logo="https://i.imgur.com/R5YhXUK.png" group-title="INDIA",TV 16 Toronto (CA)
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Punjab" tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="INDIA",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Telugu (New!)" tvg-logo="https://i.imgur.com/EIpxHel.png" group-title="INDIA",TV9 Telugu (New!)
+http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV84" tvg-logo="https://i.imgur.com/nNowkyK.png" group-title="INDIA",TV84
+http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV100" tvg-logo="https://i.imgur.com/KIMXJbF.png" group-title="INDIA",TV100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vaanavil TV (Opt-1)" tvg-logo="https://i.imgur.com/VZN9Hda.png" group-title="INDIA",Vaanavil TV (Opt-1)
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vaanavil TV (Opt-2)" tvg-logo="https://i.imgur.com/VZN9Hda.png" group-title="INDIA",Vaanavil TV (Opt-2)
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vanavil Plus (New!)" tvg-logo="https://i.imgur.com/QN0koGL.png" group-title="INDIA",Vanavil Plus (New!)
+http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasanth TV" tvg-logo="https://i.imgur.com/yQzl6h0.png" group-title="INDIA",Vasanth TV
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Velicham TV" tvg-logo="https://i.imgur.com/TBXTY8W.png" group-title="INDIA",Velicham TV
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vendhar TV" tvg-logo="https://i.imgur.com/whta3Il.png" group-title="INDIA",Vendhar TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus TV (UK) (Opt-1)" tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="INDIA",Venus TV (UK) (Opt-1)
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus TV (UK) (Opt-2)" tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="INDIA",Venus TV (UK) (Opt-2)
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vismaya TV" tvg-logo="https://i.imgur.com/aa5yNvc.png" group-title="INDIA",Vismaya TV
+http://150.242.21.2/vismaya.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wathanam TV (New!)" tvg-logo="https://i.imgur.com/4sOEcez.png" group-title="INDIA",Wathanam TV (New!)
+http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Music (Opt-1) (New!)" tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="INDIA",Surya Music (Opt-1) (New!)
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Music (Opt-2) (New!)" tvg-logo="https://i.imgur.com/JJVRXVA.png" group-title="INDIA",Surya Music (Opt-2) (New!)
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Y TV (New!)" tvg-logo="https://i.imgur.com/cFrupeK.png" group-title="INDIA",Y TV (New!)
+http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yupp TV Marathi Classics (New!)" tvg-logo="https://i.imgur.com/ns2x7ws.png" group-title="INDIA",Yupp TV Marathi Classics (New!)
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yupp TV Marathi Premium (New!)" tvg-logo="https://i.imgur.com/ns2x7ws.png" group-title="INDIA",Yupp TV Marathi Premium (New!)
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yupp TV Tamil Classics (New!)" tvg-logo="https://i.imgur.com/ns2x7ws.png" group-title="INDIA",Yupp TV Tamil Classics (New!)
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yupp TV Telugu Classics (New!)" tvg-logo="https://i.imgur.com/ns2x7ws.png" group-title="INDIA",Yupp TV Telugu Classics (New!)
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="80s Rewind" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca525b650be2571e3943c63/featuredImage.jpg" group-title="24/7 PLUTO TV",80s Rewind
+https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4cc90abe-fdfa-a008-eaf5-d1e508a0cd5a-4kTV_hero.jpg" group-title="24/7 PLUTO TV",4K TV
+http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Action Movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="24/7 PLUTO TV",Action Movies
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adventure TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5938876b78d8d9c074c3c657/featuredImage.jpg" group-title="24/7 PLUTO TV",Adventure TV
+http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="After School Cartoons" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="24/7 PLUTO TV",After School Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animals" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56b27f85ff3037045055037e/featuredImage.jpg" group-title="24/7 PLUTO TV",Animals
+https://stitcher.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=sb3stkgum0jt2soq367mu97333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Ages" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="24/7 PLUTO TV",Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" group-title="24/7 PLUTO TV",Anime All Day
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antiques Roadshow (UK)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce44810b421747ae467b7cd/featuredImage.jpg" group-title="24/7 PLUTO TV",Antiques Roadshow (UK)
+https://stitcher.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=200lm1j6kehed04ucl6d6fc4q7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awesomeness TV" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/92b06cb1-4269-5d05-686b-39917f08d546-Channel-Featured_AwesomenessTV.jpg" group-title="24/7 PLUTO TV",Awesomeness TV
+http://stitcher.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" group-title="24/7 PLUTO TV",BET
+https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Sky Conference" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59641d9173ac1fec2fc01f17/featuredImage.jpg" group-title="24/7 PLUTO TV",Big Sky Conference
+http://stitcher.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Biography" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2e8c4a9e06fa0511b75276/featuredImage.jpg" group-title="24/7 PLUTO TV",Biography
+https://stitcher.pluto.tv/stitch/hls/channel/5c2e8c4a9e06fa0511b75276/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jaasl9n3jh3esnglai5na3geu7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black Cinema" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" group-title="24/7 PLUTO TV",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cars" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b3a4249444e05d09cc46/featuredImage.jpg" group-title="24/7 PLUTO TV",Cars
+http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cash Cab" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37dec3de714a458f5c0f41/featuredImage.jpg" group-title="24/7 PLUTO TV",Cash Cab
+https://stitcher.pluto.tv/stitch/hls/channel/5c37dec3de714a458f5c0f41/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cde3cigj2626i43pra7jrnrbs4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cats 24/7" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/featuredImage.jpg" group-title="24/7 PLUTO TV",Cats 24/7
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chassy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b6b285823ecb93393cbf766/featuredImage.jpg" group-title="24/7 PLUTO TV",Chassy
+http://stitcher.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64655f3202714e8dad6e/featuredImage.jpg" group-title="24/7 PLUTO TV",Cine
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d64655f3202714e8dad6e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=l8orq3a8c0i8mnij1r1q96i7p0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Dos" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c9abcd72bebe52e3cacc1c4/featuredImage.jpg" group-title="24/7 PLUTO TV",Cine Dos
+https://stitcher.pluto.tv/stitch/hls/channel/5c9abcd72bebe52e3cacc1c4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=100lm1j6kehed04ucl6d6fc4q7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg" group-title="24/7 PLUTO TV",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Toons TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="24/7 PLUTO TV",Classic Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/b6e39f2b-47cc-772e-65eb-e40ef08c79ce-ClassicTV_featured.jpg" group-title="24/7 PLUTO TV",Classic TV
+http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clevver" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/621e2260-8beb-16a9-eaf6-c7442107a1d8-Clevver_Hero.jpg" group-title="24/7 PLUTO TV",Clevver
+http://stitcher.pluto.tv/stitch/hls/channel/587599db0decb235457c956d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMT Westerns" tvg-logo="https://i.imgur.com/AlMIGmj.jpg" group-title="24/7 PLUTO TV",CMT Westerns
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ncuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="24/7 PLUTO TV",CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNET" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7cd92dbc-3121-2ec3-774e-a46148805439-CNET-channel-feature.jpg" group-title="24/7 PLUTO TV",CNET
+http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cold Case Files" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" group-title="24/7 PLUTO TV",Cold Case Files
+https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kaasl9n3jh3esnglai5na3geu7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Combate World" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg" group-title="24/7 PLUTO TV",Combate World
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg" group-title="24/7 PLUTO TV",Comedy
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy (UK)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363c2411c5ca053f198f97/featuredImage.jpg" group-title="24/7 PLUTO TV",Comedy (UK)
+https://stitcher.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d45b9ea1nuf9ijm985tiag4ge6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg" group-title="24/7 PLUTO TV",Comedy Central
+https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central Stand Up" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca675d6593a5d78f0e85c2e/featuredImage.jpg" group-title="24/7 PLUTO TV",Comedy Central Stand Up
+https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Complex Networks" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1b439ea5c9e53afd21325/featuredImage.jpg" group-title="24/7 PLUTO TV",Complex Networks
+https://stitcher.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a986f9svfip7e01cg9g78c92l4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Conspiracy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5adf96e3e738977e2c31cb04/featuredImage.jpg" group-title="24/7 PLUTO TV",Conspiracy
+https://stitcher.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=m24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ConTV" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1bb65268cae539bcedb0c/featuredImage.jpg" group-title="24/7 PLUTO TV",ConTV
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1bb65268cae539bcedb0c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cracked" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab51f0fb-5cfb-d826-5de8-0527fa983eba-cracked-channel-feature%20(1).jpg" group-title="24/7 PLUTO TV",Cracked
+http://stitcher.pluto.tv/stitch/hls/channel/561c5d74ada51f8004c4d85d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crazy Pets" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cf0627e3c6efae31002e114/featuredImage.jpg" group-title="24/7 PLUTO TV",Crazy Pets
+https://stitcher.pluto.tv/stitch/hls/channel/5cf0627e3c6efae31002e114/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=500lm1j6kehed04ucl6d6fc4q7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crime Network" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812be1c249444e05d09cc50/featuredImage.jpg" group-title="24/7 PLUTO TV",Crime Network
+http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cult Films" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c665db3e6c01b72c4977bc2/featuredImage.jpg" group-title="24/7 PLUTO TV",Cult Films
+https://stitcher.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aas1tmuhiduj44cbhncosi4hb7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doctor Who Classic" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce4475cd43850831ca91ce7/featuredImage.jpg" group-title="24/7 PLUTO TV",Doctor Who Classic
+https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=afm0olmob01dea5o07g90tqtu0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentaries" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg" group-title="24/7 PLUTO TV",Documentaries
+http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DocuTV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7acadea2-4d35-2f5f-7933-a0648ed5d1cb-DocuTV_featured.jpg" group-title="24/7 PLUTO TV",DocuTV
+http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dog the Bounty Hunter" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" group-title="24/7 PLUTO TV",Dog the Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drama" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg" group-title="24/7 PLUTO TV",Drama
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drama (UK)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2dd9e59bf23c192c411e/featuredImage.jpg" group-title="24/7 PLUTO TV",Drama (UK)
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2dd9e59bf23c192c411e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c63a4iic6a2islfekugkgdsul4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DramaFever" tvg-logo="https://pmcvariety.files.wordpress.com/2016/02/dramafever-logo.jpg" group-title="24/7 PLUTO TV",DramaFever
+http://stitcher.pluto.tv/stitch/hls/channel/5a667765a5c02e717a25dc0f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=6&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ER Stories" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cda08d99ad3b121623d6dcb/featuredImage.jpg" group-title="24/7 PLUTO TV",ER Stories
+https://stitcher.pluto.tv/stitch/hls/channel/5cda08d99ad3b121623d6dcb/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=2lo2e1dlqpk6g2c72q7m3mjag2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eye Candy" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
+http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FailArmy" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/554158e864526b29254ff105/featuredImage.jpg" group-title="24/7 PLUTO TV",FailArmy
+http://stitcher.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Faith TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c58a539fae3812612f33ca3/featuredImage.jpg" group-title="24/7 PLUTO TV",Faith TV
+https://stitcher.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c37cef12f9heq1mq8ah9ia4h70
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Family" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b64a245a202b3337f09e51d/featuredImage.jpg" group-title="24/7 PLUTO TV",Family
+http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fear Factor" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c362ded581a86051df509b4/featuredImage.jpg" group-title="24/7 PLUTO TV",Fear Factor
+https://stitcher.pluto.tv/stitch/hls/channel/5c362ded581a86051df509b4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=f45b9ea1nuf9ijm985tiag4ge6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b0f2237a6ff45d16c3f9/featuredImage.jpg" group-title="24/7 PLUTO TV",Fight
+http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flicks of Fury" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="24/7 PLUTO TV",Flicks of Fury
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title="24/7 PLUTO TV",Food TV
+http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Forensic Files" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7 PLUTO TV",Forensic Files
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FrontDoor" tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
+https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Funny AF" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/79328cdd-3e2e-70d4-cce3-574ffb9fcc75-FunnyAF_featured.jpg" group-title="24/7 PLUTO TV",Funny AF
+http://stitcher.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geek & Sundry" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/02c4eb8a-b20e-f6d0-0ff8-b2d6fdf8135f-GS_PlutoTV_1560x878.jpg" group-title="24/7 PLUTO TV",Geek & Sundry
+http://stitcher.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ghost Dimension" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c45f5a9d40d58066869fa60/featuredImage.jpg" group-title="24/7 PLUTO TV",Ghost Dimension
+https://stitcher.pluto.tv/stitch/hls/channel/5c45f5a9d40d58066869fa60/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=e45b9ea1nuf9ijm985tiag4ge6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glory Kickboxing (Opt-1)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" group-title="24/7 PLUTO TV",Glory Kickboxing (Opt-1)
+http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glory Kickboxing (Opt-2)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" group-title="24/7 PLUTO TV",Glory Kickboxing (Opt-2)
+https://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aur393qqr6rgv34sdqt02gjgp6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glory Kickboxing (UK)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" group-title="24/7 PLUTO TV",Glory Kickboxing (UK)
+https://stitcher.pluto.tv/stitch/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bur393qqr6rgv34sdqt02gjgp6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glory Kickboxing (Germany)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" group-title="24/7 PLUTO TV",Glory Kickboxing (Germany)
+https://stitcher.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dur393qqr6rgv34sdqt02gjgp6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gravitas Movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" group-title="24/7 PLUTO TV",Gravitas Movies
+http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hell's Kitchen" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24/7 PLUTO TV",Hell's Kitchen
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Her" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" group-title="24/7 PLUTO TV",Her
+http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Her Dramas" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c86b772e7f96a5a929736c0/featuredImage.jpg" group-title="24/7 PLUTO TV",Her Dramas
+https://stitcher.pluto.tv/stitch/hls/channel/5c86b772e7f96a5a929736c0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=apleiqkv48retieubjjds9qrm7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d35dfa5c02e717a234f86/featuredImage.jpg" group-title="24/7 PLUTO TV",History
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hive" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/94c00b9b-c823-6d69-6d0b-e64daad439ac-Hive_featured.jpg" group-title="24/7 PLUTO TV",Hive
+http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hoarding: Buried Alive" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca2ac3688925d78c857465f/featuredImage.jpg" group-title="24/7 PLUTO TV",Hoarding: Buried Alive
+https://stitcher.pluto.tv/stitch/hls/channel/5ca2ac3688925d78c857465f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bpleiqkv48retieubjjds9qrm7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hunter" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c99f5810c95814ff92512f9/featuredImage.jpg" group-title="24/7 PLUTO TV",Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b63a4iic6a2islfekugkgdsul4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IGN" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4b34952a-5e39-6200-4895-47690a5f7de7-IGN-Hero-Artwork.jpg" group-title="24/7 PLUTO TV",IGN
+http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Impact Wrestling" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="24/7 PLUTO TV",Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58ed63525e2c798008323a1c/featuredImage.jpg" group-title="24/7 PLUTO TV",Indies
+http://stitcher.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Internet Gold" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/867faca1-0c44-a85f-af4b-e3a116147f1f-InternetGold_featured.jpg" group-title="24/7 PLUTO TV",Internet Gold
+http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JASH" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/598c8e2f3d8719a202ec66cc/featuredImage.jpg" group-title="24/7 PLUTO TV",JASH
+http://stitcher.pluto.tv/stitch/hls/channel/598c8e2f3d8719a202ec66cc/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad8d54be738977e2c310940/featuredImage.jpg" group-title="24/7 PLUTO TV",Kids
+https://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=j7go93gc2nj2bijagutmn2d3v6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids Learning" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2e228002db3c3e0b1c6f/featuredImage.jpg" group-title="24/7 PLUTO TV",Kids Learning
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c45b9ea1nuf9ijm985tiag4ge6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="24/7 PLUTO TV",Kids TV
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA Ink + NY Ink" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d6603bdf11b71587184b9/featuredImage.jpg" group-title="24/7 PLUTO TV",LA Ink + NY Ink
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d6603bdf11b71587184b9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=h1i2kmn8epo99i02q1oji559k6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LittleThings" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5984cbeaa0fc957e6e9195ab/featuredImage.jpg" group-title="24/7 PLUTO TV",LittleThings
+http://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Music Replay" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ee0298f1-d9df-fa01-1f45-0e07d10c9ce8-Hero%20Optional%201560x878.jpg" group-title="24/7 PLUTO TV",Live Music Replay
+http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Logo" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce5a8954311f992edbe1da2/featuredImage.jpg" group-title="24/7 PLUTO TV",Logo
+https://stitcher.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=300lm1j6kehed04ucl6d6fc4q7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lucha Libre AAA" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c01df1759ee03633e7b272c/featuredImage.jpg" group-title="24/7 PLUTO TV",Lucha Libre AAA
+https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Man Up" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/20daeac7-6437-270c-68a6-4c00b17e3474-manup_hero.jpg" group-title="24/7 PLUTO TV",Man Up
+http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Man Up: Outdoors" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c393cad2de254456f7ef8c2/featuredImage.jpg" group-title="24/7 PLUTO TV",Man Up: Outdoors
+https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Midsomer Murders" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cbf6a868a1bce4a3d52a5e9/featuredImage.jpg" group-title="24/7 PLUTO TV",Midsomer Murders
+https://stitcher.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=1lo2e1dlqpk6g2c72q7m3mjag2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Military" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb3fea0f711fd76340eebff/featuredImage.jpg" group-title="24/7 PLUTO TV",Military
+https://stitcher.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cuaohqlqf26jfvbh443n3ie5g0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MinecrafTV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/59925e4c-00de-2e8d-5a1f-86b55d2cc36e-MINECRAFTV_HERO.jpg" group-title="24/7 PLUTO TV",MinecrafTV
+http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies 1" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="24/7 PLUTO TV",Movies 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies 2" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="24/7 PLUTO TV",Movies 2
+http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca672f515a62078d2ec0ad2/featuredImage.jpg" group-title="24/7 PLUTO TV",MTV
+https://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Dating" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6899a37b88b269472ea4b/featuredImage.jpg" group-title="24/7 PLUTO TV",MTV Dating
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=hcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Guy Code" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68acec16f7d78dc161fe1/featuredImage.jpg" group-title="24/7 PLUTO TV",MTV Guy Code
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=fcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Teen" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68a4737b88b269472f1be/featuredImage.jpg" group-title="24/7 PLUTO TV",MTV Teen
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mystery Science Theater 3000" tvg-logo="https://cdn.crowdfundinsider.com/wp-content/uploads/2015/11/Mystery-Science-Theater-3000-logo.png" group-title="24/7 PLUTO TV",Mystery Science Theater 3000
+http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="24/7 PLUTO TV",NBC News
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nerdist" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/bb5b66a2-9927-94fe-a346-751120398eb3-Nerdist_hero.jpg" group-title="24/7 PLUTO TV",Nerdist
+http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="24/7 PLUTO TV",Nick
+https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="24/7 PLUTO TV",Nick Jr.
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ccuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosey" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aec96ec5126c2157123c657/featuredImage.jpg" group-title="24/7 PLUTO TV",Nosey
+http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Movie Channel" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cb0cae7a461406ffe3f5213/featuredImage.jpg" group-title="24/7 PLUTO TV",Paramount Movie Channel
+https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People TV" tvg-logo="http://judygold.com/wp-content/uploads/2015/04/people-tv-300x235.jpg" group-title="24/7 PLUTO TV",People TV
+http://stitcher.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=0&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PopSugar" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561721d6ada51f8004c4b474/featuredImage.jpg" group-title="24/7 PLUTO TV",PopSugar
+http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Drama" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c3195f21b553c1f673faf/featuredImage.jpg" group-title="24/7 PLUTO TV",Retro Drama
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c3195f21b553c1f673faf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a63a4iic6a2islfekugkgdsul4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Toons" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2b9d8002db3c3e0b1c6d/featuredImage.jpg" group-title="24/7 PLUTO TV",Retro Toons
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Revry" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ac7d243cd17c85601684f57/featuredImage.jpg" group-title="24/7 PLUTO TV",Revry
+https://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RiffTrax" tvg-logo="https://static.rifftrax.com/sites/default/files/logo-sm.png" group-title="24/7 PLUTO TV",RiffTrax
+http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romance" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" group-title="24/7 PLUTO TV",Romance
+https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Science TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f7531066-b03f-9806-4292-b2cce8913a23-ScienceTV_featured.jpg" group-title="24/7 PLUTO TV",Science TV
+http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ShoutFactoryTV" tvg-logo="https://upload.zype.com/53c0457a69702d4d66040000/zobject_image/54c923da69702d070c177700/1422468057/original.png?1422468057" group-title="24/7 PLUTO TV",ShoutFactoryTV
+http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sitcoms" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg" group-title="24/7 PLUTO TV",Sitcoms
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z8orq3a8c0i8mnij1r1q96i7p0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Slow TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9ed1cafa-b155-dbe3-f0d9-688d256804a7-SlowTV_hero.jpg" group-title="24/7 PLUTO TV",Slow TV
+http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike" tvg-logo="https://i.imgur.com/JGD62i8.jpg" group-title="24/7 PLUTO TV",Spike
+https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike Outdoors" tvg-logo="https://i.imgur.com/3bp1B22.jpg" group-title="24/7 PLUTO TV",Spike Outdoors
+https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=mcuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56340779a738201b4ccfeac9/featuredImage.jpg" group-title="24/7 PLUTO TV",Sports
+https://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports News" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/76b2146e-f88e-5fb9-9539-634f9a406223-SportsNews_featured.jpg" group-title="24/7 PLUTO TV",Sports News
+http://stitcher.pluto.tv/stitch/hls/channel/5812b223e58ad7c757009420/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotlight" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg" group-title="24/7 PLUTO TV",Spotlight
+http://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Survivorman" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eec031846c82e15e01a9a/featuredImage.jpg" group-title="24/7 PLUTO TV",Survivorman
+https://stitcher.pluto.tv/stitch/hls/channel/5c6eec031846c82e15e01a9a/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a37cef12f9heq1mq8ah9ia4h70
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stand-Up TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/0d2aa422-73cb-a635-1058-66bbcf517773-StandUp_featured.jpg" group-title="24/7 PLUTO TV",Stand-Up TV
+http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THC" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/880ab7c4-5a84-dd74-f084-ecc22cba366f-TheHighChannel_featured.jpg" group-title="24/7 PLUTO TV",THC
+http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Asylum" tvg-logo="https://www.dreadcentral.com/wp-content/uploads/2016/01/the-asylum-logo.jpg" group-title="24/7 PLUTO TV",The Asylum
+http://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Feed" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/57f9f46b-8671-b9f3-78a1-94a4941bd3bf-TheFeed_featured.jpg" group-title="24/7 PLUTO TV",The Feed
+http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Hills" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68b45d0bd6c2689c96537/featuredImage.jpg" group-title="24/7 PLUTO TV",The Hills
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ocuqage0urlhccbp8kbecjc830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The New Detectives" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="24/7 PLUTO TV",The New Detectives
+http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Onion" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5616fc1cf39f506e04b61dfc/featuredImage.jpg" group-title="24/7 PLUTO TV",The Onion
+https://stitcher.pluto.tv/stitch/hls/channel/5616fc1cf39f506e04b61dfc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=oaasl9n3jh3esnglai5na3geu7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pet Collective" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ad55268cae539bcedb08/featuredImage.jpg" group-title="24/7 PLUTO TV",The Pet Collective
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Surf Channel" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/da2e62dc-de8e-9036-f86e-faf0b778ea99-surf-channel-channel-feature.jpg" group-title="24/7 PLUTO TV",The Surf Channel
+http://stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrillers" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" group-title="24/7 PLUTO TV",Thrillers
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59c01b1953680139c6ae9d4d/featuredImage.jpg" group-title="24/7 PLUTO TV",Travel
+https://stitcher.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aoelrk6ul5u6hqj57r05399uc4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unsolved Mysteriess (Opt-1)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24/7 PLUTO TV",Unsolved Mysteriess (Opt-1)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unsolved Mysteries (Opt-2)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24/7 PLUTO TV",Unsolved Mysteries (Opt-2)
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=3792htruebflrgcrn4utr475i7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Voyager Documentaries" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/589aa03df9ba56a84197a560/featuredImage.jpg" group-title="24/7 PLUTO TV",Voyager Documentaries
+https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wahlburgers" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eeb011846c82e15e01a99/featuredImage.jpg" group-title="24/7 PLUTO TV",Wahlburgers
+https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a6vkbe38fqjt8dhs9uov8ef1t7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weddings" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877acecb16bb1e042ee453f/featuredImage.jpg" group-title="24/7 PLUTO TV",Weddings
+https://stitcher.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=400lm1j6kehed04ucl6d6fc4q7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Westerns" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg" group-title="24/7 PLUTO TV",Westerns
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="What?!" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/a78b9f26-908f-f0cf-60ae-6230239b5158-WHAT-!_featured.jpg" group-title="24/7 PLUTO TV",What?!
+http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="What's On?" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e2cd77a84e99942f414e68/featuredImage.jpg" group-title="24/7 PLUTO TV",What's On?
+http://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wipeout" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" group-title="24/7 PLUTO TV",Wipeout
+http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Poker Tour" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/decd85f0-6e26-46f0-9fd8-0a1e656dfe9a-wpt_featured.jpg" group-title="24/7 PLUTO TV",World Poker Tour
+http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XiveTV" tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" group-title="24/7 PLUTO TV",XiveTV
+http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yu-Gi-Oh! 5D’s" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 PLUTO TV",Yu-Gi-Oh! 5D’s
+https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
