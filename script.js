@@ -7,9 +7,7 @@ var showText = function (target, message, index, interval) {
   }
 };
 $(function () {
-  showText("#msg", "Raif C.", 0, 100);
-  showText("#msg1", "Under Maintenance......", 0, 100);
-  showText("#msg3", "¯_(ツ)_/¯", 0, 100);
+  showText("#msg", "Under Maintenance...", 0, 100);
 });
 $(document).ready(function () {
   setTimeout("$('#fname').focus();", 500);
