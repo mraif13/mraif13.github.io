@@ -20,7 +20,7 @@ img {
 }
 
 .nav-container {
-  background: #03020afa;
+  background: #2e3440fa;
 }
 
 .nav-container a {
@@ -35,7 +35,7 @@ header {
 }
 
 header .logo {
-  color: #00f7ff;
+  color: #eceff4;
   font-weight: bold;
 }
 
@@ -55,7 +55,7 @@ header ul a {
 }
 
 .hero {
-  background: #03020a;
+  background: #2e3440;
   color: white;
   display: -ms-grid;
   display: grid;
@@ -70,7 +70,7 @@ header ul a {
   margin: 0 auto;
   width: 200px;
   font-weight: bold;
-  color: #03020a;
+  color: #2e3440;
 }
 
 .meet span {
@@ -95,13 +95,13 @@ section {
 .subtitle {
   text-transform: uppercase;
   font-weight: bold;
-  color: #2b0fa8;
+  color: #d8dee9;
   letter-spacing: 0.2em;
   font-size: 0.85em;
 }
 
 .featured-title {
-  color: #fff;
+  color: #e5e9f0;
   font-weight: bold;
   font-size: 1.3em;
   margin-top: -0.4em;
@@ -116,49 +116,10 @@ section {
   font-weight: 500;
 }
 
-.skills {
-  background: #03020a;
-}
-
-.skills-container ul li {
-  background: #03020a;
-  color: #fff;
-  padding: 2em;
-  border-radius: 1em;
-  margin-bottom: 1em;
-}
-
-.skills-container ul li .icon-container {
-  height: 100px;
-  display: -ms-grid;
-  display: grid;
-  place-content: center;
-  margin: 0 auto;
-}
-
-.skills-container ul li .icon-container.one {
-  width: 50px;
-}
-
-.skills-container ul li .icon-container.two {
-  width: 100px;
-}
-
-.skills-container ul li .icon-container.three {
-  width: 60px;
-}
-
-.skills-container ul li .skill-title {
-  font-weight: bold;
-}
-
-.skills-container ul li .featured-desc {
-  margin-bottom: 2em;
-}
 
 .homelab {
   color: #fff;
-  background: #03020a;
+  background: #2e3440;
 }
 
 .portfolio-container a img {
@@ -220,7 +181,7 @@ section {
     background: unset;
   }
   .nav-container header {
-    background: #160b47;
+    background: #2e3440fa;
   }
   header {
     padding: 2em 2em 2em 4em;
@@ -238,7 +199,7 @@ section {
     padding: 0;
   }
   .hero .content {
-    background: #03020a;
+    background: #2e3440;
     padding: 6em 8em 6em 4em;
     text-align: left;
   }
@@ -311,9 +272,4 @@ section {
     -webkit-transform: translate(262px, 830px);
     transform: translate(262px, 830px);
   }
-}
-
-.footer {
-  background: #03020a;
-  color: white;
 }
