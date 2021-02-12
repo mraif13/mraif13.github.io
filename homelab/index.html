@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>mraif13 - Homelab</title>
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+    <div class="nav-container">
+      <header>
+        <a href="index.html" class="logo">mraif13's Homelab</a>
+      </header>
+    </div>
+
+    <section class="homelab">
+      <div class="homelab-container transition3">
+        <div class="homelab-left">
+          <div class="inner">
+            <p class="subtitle">Codename</p>
+
+            <p class="featured-title">Nebula</p>
+            <p class="subtitle">Specs</p>
+            <li>i3-2120 CPU @ 3.30GHz</li>
+            <li>8GB of DDR3 RAM</li>
+            <li>600GB Storage</li>
+            <li>Case: HP Pavilion p6</li>
+            <li>OS: OMV (Openmediavault)</li>
+            <br />
+            <p class="subtitle">Docker containers</p>
+            <li>Adguard Home (Pi-hole alt)</li>
+            <li>Jackett</li>
+            <li>Jellyfin (Media Server),</li>
+            <li>Plex (Audiobooks only)</li>
+            <li>Sonarr</li>
+            <li>Radarr</li>
+            <li>Snapdrop (Local file sharing)</li>
+            <li>Qbittorrent</li>
+            <li>Searcharr (Download movies/tv shows using telegram bot)</li>
+            <li>Portainer</li>
+            <li>Nginx proxy manager (Reverse proxy)</li>
+            <li>Cloudflare (Middle for all external connections)</li>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div class="homelab-container transition3">
+        <div class="homelab-left">
+          <div class="inner">
+            <p class="subtitle">Codename</p>
+
+            <p class="featured-title">Tranix</p>
+            <p class="subtitle">Specs</p>
+            <li>Core 2 Duo Processor 2.2GHz</li>
+            <li>4GB of DDR3 RAM</li>
+            <li>250GB Storage</li>
+            <li>Case: Dell Studio 1555</li>
+            <li>OS: Ubuntu Server 20.04</li>
+          </div>
+          <p class="subtitle">APPS</p>
+          <li>Nextcloud</li>
+        </div>
+      </div>
+      <br />
+      <br />
+      <br />
+
+      <div class="footer">
+        <p>Last updated: Feb 13.</p>
+      </div>
+    </section>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"
+      integrity="sha512-IQLehpLoVS4fNzl7IfH8Iowfm5+RiMGtHykgZJl9AWMgqx0AmJ6cRWcB+GaGVtIsnC4voMfm8f2vwtY+6oPjpQ=="
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ScrollTrigger.min.js"></script>
+
+    <script>
+      gsap.registerPlugin(ScrollTrigger);
+      var tl = gsap.timeline();
+
+      tl.from(".content", {
+        y: "-30%",
+        opacity: 0,
+        duration: 2,
+        ease: Power4.easeOut,
+      });
+      tl.from(
+        ".stagger1",
+        {
+          opacity: 0,
+          y: -50,
+          stagger: 0.3,
+          ease: Power4.easeOut,
+          duration: 2,
+        },
+        "-=1.5"
+      );
+      tl.from(
+        ".hero-design",
+        {
+          opacity: 0,
+          y: 50,
+          ease: Power4.easeOut,
+          duration: 1,
+        },
+        "-=2"
+      );
+
+      gsap.from(".square-anim", {
+        stagger: 0.2,
+        scale: 0.1,
+        duration: 1,
+        ease: Back.easeOut.config(1.7),
+      });
+
+      gsap.from(".transition2", {
+        scrollTrigger: {
+          trigger: ".transition2",
+          start: "top bottom",
+        },
+        y: 50,
+        opacity: 0,
+        duration: 1.2,
+        stagger: 0.3,
+      });
+
+      gsap.from(".transition3", {
+        scrollTrigger: {
+          trigger: ".transition3",
+          start: "top center",
+        },
+        y: 50,
+        opacity: 0,
+        duration: 1.2,
+        stagger: 0.6,
+      });
+    </script>
+  </body>
+</html>
