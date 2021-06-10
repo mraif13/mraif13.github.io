@@ -20,11 +20,16 @@ img {
 }
 
 .nav-container {
-  background: #2e3440fa;
+  background: #0a0a0a;
 }
 
 .nav-container a {
   color: white;
+}
+
+.nav-container a:hover{
+   color: #faf089;
+   
 }
 
 header {
@@ -55,7 +60,7 @@ header ul a {
 }
 
 .hero {
-  background: #2e3440;
+  background: #0a0a0a;
   color: white;
   display: -ms-grid;
   display: grid;
@@ -70,7 +75,7 @@ header ul a {
   margin: 0 auto;
   width: 200px;
   font-weight: bold;
-  color: #2e3440;
+  color: #0a0a0a;
 }
 
 .meet span {
@@ -95,13 +100,13 @@ section {
 .subtitle {
   text-transform: uppercase;
   font-weight: bold;
-  color: #d8dee9;
+  color: #faf089;
   letter-spacing: 0.2em;
   font-size: 0.85em;
 }
 
 .featured-title {
-  color: #e5e9f0;
+  color: #ffffff;
   font-weight: bold;
   font-size: 1.3em;
   margin-top: -0.4em;
@@ -118,7 +123,7 @@ section {
 
 .homelab {
   color: #fff;
-  background: #2e3440;
+  background: #0a0a0a;
 }
 
 .portfolio-container a img {
@@ -180,7 +185,7 @@ section {
     background: unset;
   }
   .nav-container header {
-    background: #2e3440fa;
+    background: #0a0a0afa;
   }
   header {
     padding: 2em 2em 2em 4em;
@@ -198,7 +203,7 @@ section {
     padding: 0;
   }
   .hero .content {
-    background: #2e3440;
+    background: #0a0a0a;
     padding: 6em 8em 6em 4em;
     text-align: left;
   }
@@ -273,9 +278,22 @@ section {
   }
 }
 .serlogo {
+  text-align: center;
   position: relative;
   margin-bottom: -20px;
-  margin-right: 5px;;
+  margin-right: 5px;
   width: 50px;
   height: 50px;
+}
+
+.gobackbtn {
+  float: left;
+  bottom: 50px;
+  font-size: 40px;
+  padding-left: 10px;
+}
+.gobackbtn i:hover {
+  color: #faf089;
+  background-color: #0a0a0a;
+  border-radius: 100px;
 }
