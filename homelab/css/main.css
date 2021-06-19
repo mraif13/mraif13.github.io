@@ -27,9 +27,8 @@ img {
   color: white;
 }
 
-.nav-container a:hover{
-   color: #faf089;
-   
+.nav-container a:hover {
+  color: #faf089;
 }
 
 header {
@@ -97,7 +96,7 @@ section {
   position: relative;
 }
 
-.subtitle {
+.subtitle .status {
   text-transform: uppercase;
   font-weight: bold;
   color: #faf089;
